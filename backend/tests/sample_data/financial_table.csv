@@ -1,0 +1,4 @@
+﻿Client,Amount,Due Date,Status
+Acme Corp,500 USD,2024-01-31,Paid
+Beta Ltd,1200 USD,2024-02-15,Pending
+Gamma Inc,750 USD,2024-03-01,Overdue
